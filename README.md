@@ -11,6 +11,8 @@ fine-tuned on the Galaxy Zoo DECaLS dataset (155,951 images).
 ## Dataset
 mrJordi0/galaxy-zoo-dataset on Hugging Face
 
+Link: https://huggingface.co/datasets/mrJordi0/galaxy-zoo-dataset 
+
 ## Classes
 Round Elliptical, In-between Elliptical, Cigar-shaped Elliptical,
 Edge-on Spiral, Barred Spiral, Unbarred Spiral, Irregular, Merger
